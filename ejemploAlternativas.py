@@ -4,7 +4,7 @@ numero = int(input("Introduce un numero: "))
 
 if numero > 0:
     print("El numero es positivo")
-	print("Bien hecho!")
+    print("Bien hecho!")
 
 print("Fin del programa")
 """
